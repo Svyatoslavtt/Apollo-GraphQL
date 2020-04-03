@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="913d9d54-ccdc-48b2-b8dc-89b4797032aa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1ZylJSRBonhI50UIqoaCnDMpqy5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="913d9d54-ccdc-48b2-b8dc-89b4797032aa" name="Default Changelist" comment="" />
+      <created>1585819142389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585819142389</updated>
+      <workItem from="1585819143512" duration="1580000" />
+      <workItem from="1585828785696" duration="1000" />
+      <workItem from="1585828865798" duration="16000" />
+      <workItem from="1585829646377" duration="9000" />
+      <workItem from="1585840433033" duration="4000" />
+      <workItem from="1585843398625" duration="2000" />
+      <workItem from="1585848251321" duration="6000" />
+      <workItem from="1585904541081" duration="6000" />
+      <workItem from="1585917193533" duration="6000" />
+      <workItem from="1585931825224" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1819" height="215" key="GridCell.Tab.0.bottom" timestamp="1585820840361">
+      <screen x="55" y="27" width="1865" height="1053" />
+    </state>
+    <state width="1819" height="215" key="GridCell.Tab.0.bottom/55.27.1865.1053@55.27.1865.1053" timestamp="1585820840361" />
+    <state width="1819" height="215" key="GridCell.Tab.0.center" timestamp="1585820840360">
+      <screen x="55" y="27" width="1865" height="1053" />
+    </state>
+    <state width="1819" height="215" key="GridCell.Tab.0.center/55.27.1865.1053@55.27.1865.1053" timestamp="1585820840360" />
+    <state width="1819" height="215" key="GridCell.Tab.0.left" timestamp="1585820840360">
+      <screen x="55" y="27" width="1865" height="1053" />
+    </state>
+    <state width="1819" height="215" key="GridCell.Tab.0.left/55.27.1865.1053@55.27.1865.1053" timestamp="1585820840360" />
+    <state width="1819" height="215" key="GridCell.Tab.0.right" timestamp="1585820840360">
+      <screen x="55" y="27" width="1865" height="1053" />
+    </state>
+    <state width="1819" height="215" key="GridCell.Tab.0.right/55.27.1865.1053@55.27.1865.1053" timestamp="1585820840360" />
+    <state x="643" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1585840434907">
+      <screen x="55" y="27" width="1865" height="1053" />
+    </state>
+    <state x="643" y="381" key="com.intellij.ide.util.TipDialog/55.27.1865.1053@55.27.1865.1053" timestamp="1585840434907" />
+  </component>
+</project>
